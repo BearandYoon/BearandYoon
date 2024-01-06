@@ -9,7 +9,7 @@ I create engaging, responsive websites that exceed user expectations and meet cl
 As a goal, solution-oriented person, I always give my best and a little bit more because outside my limitations as an engineer is where I have found the most growth.
 
 
-<img align="center" alt="GIF" src="https://github.com/shsarv/shsarv/blob/master/code.gif" width="450" height="250" />
+<img align="center" alt="GIF" src="https://github.com/shsarv/shsarv/blob/master/code.gif" />
 
 
 ## Programming Languages
