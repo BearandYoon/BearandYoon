@@ -8,10 +8,6 @@ I create engaging, responsive websites that exceed user expectations and meet cl
 
 As a goal, solution-oriented person, I always give my best and a little bit more because outside my limitations as an engineer is where I have found the most growth.
 
-
-<img align="center" alt="GIF" src="https://github.com/shsarv/shsarv/blob/master/code.gif" />
-
-
 ## Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,py,ruby,php,html,css" />
@@ -45,8 +41,8 @@ As a goal, solution-oriented person, I always give my best and a little bit more
   </div>
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BearandYoon"></img>
 <div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BearandYoon"></img>
     <img align="left" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BearandYoon&layout=compact&langs_count=16&theme=dracula"/>
     <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BearandYoon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
