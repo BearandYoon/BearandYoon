@@ -33,7 +33,7 @@ As a goal, solution-oriented person, I always give my best and a little bit more
 ## Databases
 <p>
   <div align="left">      
-    <img src=My focus is on creating clean, maintainable, and reusable code that is optimized for speed and efficiency."https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,graphql,firebase,redis" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,graphql,firebase,redis" />
   </div>
 </p>
 
