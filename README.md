@@ -46,6 +46,6 @@ As a goal, solution-oriented person, I always give my best and a little bit more
 
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BearandYoon"></img>
-    <img align="left" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BearandYoon&layout=compact&langs_count=16&theme=dracula"/>
-    <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BearandYoon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+  <img align="left" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BearandYoon&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BearandYoon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
