@@ -4,11 +4,13 @@
 </h1>
 
 As a senior FullStack developer with over a decade of experience in web development, I create engaging, responsive websites that exceed user expectations and meet client needs, also, I consistently deliver high-value work based on my passion and expertise.
+
 My focus is on creating clean, maintainable, and reusable code that is optimized for speed and efficiency.
 
 I have a deep understanding of front-end technologies, including JavaScript, TypeScript, Angular, React, Next.js, Vue and I'm also proficient in back-end technologies like Node.js, Nest.js, Python/Django, Ruby on Rails and PHP. 
 
 If you are looking for well-documented, well-structured, high quality, bug-free, simple, reusable, and clean code, I am the right one, you will be pleasured to work with me.
+
 As a goal, solution-oriented person, I always give my best and a little bit more because outside my limitations as an engineer is where I have found the most growth.
 
 ## Programming Languages
@@ -45,11 +47,12 @@ As a goal, solution-oriented person, I always give my best and a little bit more
 </p>
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BearandYoon"></img>
+</div>
+
+<div align="center">
   <img align="left" padding-right="20px" width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BearandYoon&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div align="center">
   <img align="right" padding-left="20px" width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BearandYoon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BearandYoon"></img>
 </div>
