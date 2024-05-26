@@ -9,8 +9,6 @@ My focus is on creating clean, maintainable, and reusable code that is optimized
 
 I have a deep understanding of front-end technologies, including JavaScript, TypeScript, Angular, React, Next.js, Vue and I'm also proficient in back-end technologies like Node.js, Nest.js, Python/Django, Ruby on Rails and PHP. 
 
-If you are looking for well-documented, well-structured, high quality, bug-free, simple, reusable, and clean code, I am the right one, you will be pleasured to work with me.
-
 As a goal, solution-oriented person, I always give my best and a little bit more because outside my limitations as an engineer is where I have found the most growth.
 
 ## Programming Languages
